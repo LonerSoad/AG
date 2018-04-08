@@ -1,0 +1,6 @@
+c:\users\juanes\documents\visual studio 2015\Projects\FirstAGMinim\FirstAGMinim\bin\Debug\FirstAGMinim.exe.config
+C:\Users\juanes\Documents\Visual Studio 2015\Projects\FirstAGMinim\FirstAGMinim\obj\Debug\FirstAGMinim.csprojResolveAssemblyReference.cache
+C:\Users\juanes\Documents\Visual Studio 2015\Projects\FirstAGMinim\FirstAGMinim\bin\Debug\FirstAGMinim.exe
+C:\Users\juanes\Documents\Visual Studio 2015\Projects\FirstAGMinim\FirstAGMinim\bin\Debug\FirstAGMinim.pdb
+C:\Users\juanes\Documents\Visual Studio 2015\Projects\FirstAGMinim\FirstAGMinim\obj\Debug\FirstAGMinim.exe
+C:\Users\juanes\Documents\Visual Studio 2015\Projects\FirstAGMinim\FirstAGMinim\obj\Debug\FirstAGMinim.pdb
